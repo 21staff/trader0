@@ -1,3 +1,6 @@
 [submodule "binance_client_generated"]
 	path = binance_client_generated
 	url = https://github.com/21staff/binance_client_generated.git
+[submodule "binance-consumer"]
+	path = binance-consumer
+	url = https://github.com/21staff/binance-consumer.git
